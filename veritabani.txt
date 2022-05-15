@@ -1,0 +1,47 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "veritabani.txt",
+      "provenance": [],
+      "mount_file_id": "168lsAV7k7q3nXuRiqW3uO2d60Fa8A8pY",
+      "authorship_tag": "ABX9TyN8jN9QBaGjsnoD3Ui+KtAQ",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/esraeroglu/hu-bby162-2022/blob/main/veritabani.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "Gurur ve Önyargı-Jane Austen-2020-İş bankası kültür yayınları \n",
+        "Bülbülü Öldürmek-Harper Lee-2020-Epsilon yayınevi \n",
+        "İçimizdeki Şeytan-Sabahattin Ali-2020-Yapı kredi yayınları \n",
+        "Hamlet-William Shakespeare-2019-Anonim yayıncılık \n",
+        "Sefiller-Victor Hugo-2019-İş bankası kültür yayınları"
+      ],
+      "metadata": {
+        "id": "e7Fv2gMFNtkK"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
